@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarojini Institute of Technology Bundu - Diploma 1st Semester Results</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sarojini Institute of Technology Bundu</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="result.html">Results</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="hero">
+        <div class="container">
+            <h2>Welcome to Sarojini Institute of Technology Bundu</h2>
+            <p>Check your Diploma 1st Semester Results here!</p>
+            <a href="result.html" class="btn">Check Results</a>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2024 Sarojini Institute of Technology Bundu</p>
+    </footer>
+</body>
+</html>

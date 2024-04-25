@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diploma 1st Semester Results - Sarojini Institute of Technology Bundu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sarojini Institute of Technology Bundu</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="result.html">Results</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="result">
+        <div class="container">
+            <h2>Result:</h2>
+            <p><strong>Name:</strong> Uday Lal</p>
+            <p><strong>Branch:</strong> ME</p>
+            <p><strong>Registration Number:</strong> 23113120057</p>
+            <p><strong>Exam:</strong> Diploma First Semester Exam - 2024</p>
+            <p><strong>Father's Name:</strong> Jeevan Lal</p>
+            <p><strong>Examination Centre:</strong> MCM Inter College, Barudih</p>
+            <h3>Subject-wise Marks:</h3>
+            <ul>
+                <li>Engineering Chemistry: 82</li>
+                <li>Engineering Mathematics: 78</li>
+                <li>Engineering Physics: 95 (Highest)</li>
+                <li>Fundamentals of ICT: 75</li>
+                <li>Communication Skills: 85</li>
+            </ul>
+            <p><strong>Percentage:</strong> 87.77%</p>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2024 Sarojini Institute of Technology Bundu</p>
+    </footer>
+</body>
+</html>

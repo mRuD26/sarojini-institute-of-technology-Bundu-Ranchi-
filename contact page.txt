@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Sarojini Institute of Technology Bundu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sarojini Institute of Technology Bundu</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="result.html">Results</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or inquiries, feel free to contact us:</p>
+            <p>Email: info@sarojiniinstitute.com</p>
+            <p>Phone: +91 1234567890</p>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2024 Sarojini Institute of Technology Bundu</p>
+    </footer>
+</body>
+</html>
